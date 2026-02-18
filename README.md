@@ -96,7 +96,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sai-aravind-m
+- 💼 LinkedIn: [https://www.linkedin.com/in/sai-aravind-m](https://www.linkedin.com/in/sai-aravind-m)
 - 📧 Email: saiaravindmaddela@gmail.com
 
 ---
