@@ -76,7 +76,7 @@
 
 ---
 
-## 📂 Featured DevOps Projects (Coming Soon)
+## 📂 Featured DevOps Projects
 
 🔹 End-to-End CI/CD Pipeline using Jenkins, Docker & Kubernetes  
 🔹 Terraform AWS Infrastructure Automation  
@@ -88,9 +88,7 @@
 ## 🌱 Currently Learning
 
 - Advanced Kubernetes
-- GitOps (ArgoCD)
 - DevSecOps
-- Site Reliability Engineering Practices
 
 ---
 
@@ -99,8 +97,3 @@
 - 💼 LinkedIn: [https://www.linkedin.com/in/sai-aravind-m](https://www.linkedin.com/in/sai-aravind-m)
 - 📧 Email: saiaravindmaddela@gmail.com
 
----
-
-## ⚡ Fun Fact
-
-I love automating everything that can be automated 🚀
